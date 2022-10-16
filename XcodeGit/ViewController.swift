@@ -4,6 +4,7 @@
 //
 //  Created by 高橋知憲 on 2022/10/16.
 //
+// 今日はいい天気☀
 
 import UIKit
 
